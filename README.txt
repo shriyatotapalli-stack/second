@@ -30,4 +30,4 @@ Example Branch Names
 - bugfix-learning-levels
 
 
-123456789
+123
